@@ -1,4 +1,4 @@
-# MCP Test Project
+# MCP Integration
 
 이 프로젝트는 MCP(Multi-Channel Platform) 통합 테스트를 위한 레포지토리입니다.
 
